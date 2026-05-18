@@ -139,7 +139,7 @@ smb://192.168.31.223
 
 **Цей комп’ютер** → **Map network drive** (Підключити мережевий диск).
 
-![This PC](../office_server_connect/Attachments/6D2F38BA-571C-405E-9A14-C1084DA89E20.tiff)
+![This PC](../office_server_connect/Attachments/6D2F38BA-571C-405E-9A14-C1084DA89E20.png)
 
 ### Крок 2 · Літера диска
 
